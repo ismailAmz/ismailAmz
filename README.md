@@ -1,14 +1,12 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Ismail Al Muzamal**.<br>
- 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+# Halo semua!
+
+Saya **Ismail Al Muzamal**, seorang mahasiswa Teknik Informatika yang tertarik dalam pengembangan website, menjadi seorang web developer, serta mengeksplorasi bidang front end dan desain web.
+
+Selain itu, saya juga sangat tertarik pada keamanan jaringan (network security), yang membantu saya memahami bagaimana teknologi bekerja dengan lebih aman di lingkungan online.
+
+Meskipun masih dalam masa pendidikan, saya telah menaruh minat besar dalam mengembangkan keterampilan teknis saya, terutama dalam menciptakan pengalaman web yang menarik dan dapat diandalkan, serta aman dari serangan siber.
+
+Jika Anda ingin berkenalan lebih lanjut atau berkolaborasi, jangan ragu untuk terhubung melalui akun [Linkedin](https://www.linkedin.com/in/ismail-al-muzamal-3a0b83277/) saya.
  
 ### Github Statistic
 <p align="left">
